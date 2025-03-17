@@ -8,4 +8,4 @@ def factorial(n):
 n = 5
 result = factorial(n)
 print(f"The factorial of {n} is {result}")
-
+print(f"The factorial of {n} is {result}")
